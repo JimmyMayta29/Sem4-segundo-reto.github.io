@@ -1,0 +1,47 @@
+body {
+	background-color: hsl(233, 47%, 7%);
+	text-align: center;
+}
+
+section {
+	background-color: hsl(244, 38%, 16%);
+	margin: 25px;
+}
+
+.container {
+	width: 375px;
+	background-color: hsl(244, 38%, 16%);
+	border-radius: 10px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+
+img {
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Lexend Deca', sans-serif;
+	color: white;
+	font-size: 50px;
+}
+
+.title-color {
+	color: hsl(277, 100%, 62%);
+}
+
+.parrafo {
+	color: hsla(0, 0%, 100%, 0.6);
+	font-family: 'Inter', sans-serif;
+	font-size: 20px;
+}
+
+.number {
+	color: white;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.text {
+	color: aliceblue;
+}
